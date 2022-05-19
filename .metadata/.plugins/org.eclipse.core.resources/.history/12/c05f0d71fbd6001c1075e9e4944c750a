@@ -1,0 +1,5 @@
+package org.serratec.java2backend.projeto3.projeto03.entities;
+
+public class Cadastro {
+
+}

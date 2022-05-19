@@ -1,0 +1,16 @@
+package org.serratec.backend.projeto04.entities;
+
+import java.sql.Date;
+
+@AllArgsConstructor
+@NoArgsConstructor
+@Data
+@Entity
+
+public class FilmesEmCartaz {
+
+	private Integer id;
+	private String nome;
+	private Date duracao;
+
+}

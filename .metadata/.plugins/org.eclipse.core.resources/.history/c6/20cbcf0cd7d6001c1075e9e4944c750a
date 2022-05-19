@@ -1,0 +1,17 @@
+package org.serratec.java2backend.projeto02.controllers;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class TodoController {
+
+	@RequestMapping("/todo")
+	public List<Todo> getTodos(){
+		return Arrays.asList(
+				new Todo(1, "Compras", "Ir ao mercado e fazer compras"),
+				new Todo(2, "Remedio", "Passar na farmacia com a receita"),
+				new Todo(3, "Aula", "Acessar o Teams para assistir a aula")
+				);
+				
+	}
+}

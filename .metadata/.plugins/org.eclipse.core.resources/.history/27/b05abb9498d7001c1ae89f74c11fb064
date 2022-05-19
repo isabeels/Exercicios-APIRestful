@@ -1,0 +1,11 @@
+package org.serratec.backend.projeto04.controllers;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@RequestMapping ("/filmes")
+public class FilmeEmCartazController {
+
+
+	
+}
