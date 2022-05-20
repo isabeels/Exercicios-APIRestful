@@ -1,0 +1,5 @@
+package org.serratec.java2backend.projeto02.dominio;
+
+public class AplicacaoConfig {
+
+}
