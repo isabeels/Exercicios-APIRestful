@@ -1,0 +1,13 @@
+package org.serratec.backendprojeto05.projeto05;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Projeto05ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}

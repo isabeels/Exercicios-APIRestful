@@ -19,3 +19,5 @@ Y
 Nsrc/main/java/org/serratec/java2backend/projeto02/dominio/AplicacaoConfig.java,d\d\dde7f67b734c7d715a56a9bea6338a214d0b8201
 †
 Vsrc/main/java/org/serratec/java2backend/projeto02/controllers/AplicacaoController.java,d\8\d8f269713e1239a99c821269b56ff8878af933d3
+T
+$src/main/resources/static/Untitled 1,5\a\5a83a0d24cd2bfab72040ed80cd302267b777162
