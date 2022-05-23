@@ -11,9 +11,6 @@
     <fullyQualifiedTypeName name="org.serratec.java2backend.projeto02.exception.TodoException"/>
     <fullyQualifiedTypeName name="org.springframework.boot.context.properties.ConfigurationProperties"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
-    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
-    <fullyQualifiedTypeName name="javax.persistence.Table"/>
-    <fullyQualifiedTypeName name="javax.persistence.Id"/>
     <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
     <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
     <fullyQualifiedTypeName name="javax.persistence.Column"/>
@@ -27,7 +24,14 @@
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
     <fullyQualifiedTypeName name="org.serratec.backendprojeto05.projeto05.model.Cliente"/>
     <fullyQualifiedTypeName name="net.bytebuddy.dynamic.DynamicType.Builder.FieldDefinition.Optional"/>
+    <fullyQualifiedTypeName name="org.serratec.backendprojeto05.projeto05.repository.ClienteRepository"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Table"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="org.serratec.backend.projeto06.entities.ContaBancaria"/>
     <fullyQualifiedTypeName name="java.util.Optional"/>
     <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="org.serratec.backendprojeto05.projeto05.repository.ClienteRepository"/>
+    <fullyQualifiedTypeName name="org.serratec.backend.projeto06.repository.ContaBancariaRepository"/>
+    <fullyQualifiedTypeName name="org.serratec.backend.projeto06.service.ContaBancariaService"/>
+    <fullyQualifiedTypeName name="org.serratec.backend.projeto06.exceptions.ContaBancariaException"/>
 </qualifiedTypeNameHistroy>
