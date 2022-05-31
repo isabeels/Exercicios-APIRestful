@@ -1,9 +1,0 @@
-package org.serratec.backend.projeto04.entities;
-
-@AllArgsConstructor
-@NoArgsConstructor
-@Data
-@Entity
-public class FilmesEmCartaz {
-private 
-}
