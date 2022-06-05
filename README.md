@@ -25,12 +25,11 @@
 
   ## Sobre
 
-  Projetos realizados visando a prática com a linguagem Java e com o desenvolvimento de API's Restful.
-   - `Projeto 1`: 
-   - `Projeto 2`:
-   - `Projeto 3`:
-   - `Projeto 4`:
-   - `Projeto 5`:
-   - `Projeto 6`:
-   - `Projeto 7`: 
-   - `Projeto 8`: 
+ - Projetos realizados visando a prática com a linguagem Java e com o desenvolvimento de API's Restful.<br><br>
+    `Projeto 2:` Conhecendo a arquitetura de uma API (atualizado posteriormente com o CRUD);<br>
+    `Projeto 3:` Praticando a arquitetura de uma API;<br>
+    `Projeto 4:` Criando uma aplicação com o CRUD;<br>
+    `Projeto 5:` Integrando o banco de dados H2 na aplicação;<br>
+    `Projeto 6:` API para um Sistema Bancário;<br>
+    `Projeto 7:` API para controle de livros em uma Livraria;<br>
+    `Projeto 8:` API de uma Borracharia (projeto com mapeamento objeto-relacional, DTOs, JWT security, etc).  
